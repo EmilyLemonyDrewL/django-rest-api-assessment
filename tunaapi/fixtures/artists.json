@@ -1,0 +1,11 @@
+[
+  {
+      "model": "tunaapi.artist",
+      "pk": 1,
+      "fields": {
+          "name": "Troye Sivan",
+          "age": 28,
+          "bio": "Austrlian Youtuber turned popstar"
+      }
+  }
+]

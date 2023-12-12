@@ -1,0 +1,16 @@
+[
+  {
+      "model": "tunaapi.genre",
+      "pk": 1,
+      "fields": {
+          "description": "Progressive bluegrass is influenced by many other genres"
+      }
+  },
+  {
+      "model": "tunaapi.genre",
+      "pk": 2,
+      "fields": {
+          "description": "Pop music is a crowd favorite"
+      }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+      "model": "tunaapi.song",
+      "pk": 1,
+      "fields": {
+          "title": "Fun",
+          "artist_id": 1,
+          "album": "Blue Neighborhood",
+          "length": 200
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 2,
+      "fields": {
+          "title": "One of Your Girls",
+          "artist_id": 1,
+          "album": "Rush",
+          "length": 180
+      }
+  }
+]
